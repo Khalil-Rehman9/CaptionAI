@@ -18,7 +18,7 @@ A powerful and user-friendly tool that generates detailed captions for your imag
 ### Prerequisites
 
 Before you dive in, make sure you have Python 3.8+ installed on your machine. You'll also need some disk space for the AI models.
-You will also need to install the Ollama in your Local machine you can visit here [Ollama Install](path/to/ollama-install.md)
+You will also need to install the Ollama in your Local machine you can visit here [Ollama Install](https://github.com/Khalil-Rehman9/CaptionAI/blob/main/Ollama%20installation/ollama-installation.md)
 
 ### Installation
 
