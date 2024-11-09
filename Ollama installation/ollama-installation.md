@@ -13,8 +13,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 ```
 
 ### For Windows
-1. Install Windows Subsystem for Linux (WSL)
-2. Follow the Linux installation instructions within WSL
+You can download from here [Ollama for Window ](https://ollama.com/download)
 
 ## 📦 System Requirements
 
@@ -162,5 +161,3 @@ ollama run llama3.2-vision "GPU test"
 - Use optimized image sizes (1024x1024 recommended)
 - Monitor system resources during processing
 - Consider batch processing for multiple images
-
-Would you like me to add or modify any section of this installation guide?
