@@ -13,8 +13,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 ```
 
 ### For Windows
-1. Install Windows Subsystem for Linux (WSL)
-2. Follow the Linux installation instructions within WSL
+You can download from here [Ollama for Window ](https://ollama.com/download)
 
 ## 📦 System Requirements
 
