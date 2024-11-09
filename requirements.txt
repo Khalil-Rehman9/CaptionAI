@@ -1,0 +1,26 @@
+# Core dependencies
+streamlit==1.31.0
+Pillow==10.2.0
+torch==2.2.0
+transformers==4.37.2
+ollama==0.1.6
+
+# Image processing and deep learning
+numpy==1.24.3
+opencv-python==4.9.0.80
+
+# Utilities and logging
+python-dateutil==2.8.2
+pathlib==1.0.1
+typing-extensions==4.9.0
+tqdm==4.66.1
+
+# Optional: CUDA support for GPU acceleration
+# Uncomment if you have a compatible NVIDIA GPU
+# torch==2.2.0+cu118
+
+# Development dependencies (optional)
+# pytest==7.4.3
+# black==23.12.1
+# flake8==7.0.0
+# mypy==1.8.0
