@@ -161,5 +161,3 @@ ollama run llama3.2-vision "GPU test"
 - Use optimized image sizes (1024x1024 recommended)
 - Monitor system resources during processing
 - Consider batch processing for multiple images
-
-Would you like me to add or modify any section of this installation guide?
