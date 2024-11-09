@@ -98,7 +98,7 @@ class Florence2Model(CaptioningModel):
         )
         
         caption = self.processor.batch_decode(generated_ids, skip_special_tokens=True)[0]
-        return caption.replace("<MORE_DETAILED_CAPTION>:", "").strip() + " in the Style of LOGA"
+        return caption.replace("<MORE_DETAILED_CAPTION>:", "").strip() + " "  # You can add words or pharse at the end of the Cpation, mostly used in Stable diffusion Lora 
 
 class LlamaVisionModel(CaptioningModel):
     """Llama 3.2 Vision model implementation"""
