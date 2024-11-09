@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/Khalil-Rehman9/CaptionAI/blob/main/UI.png)
+
 # 🖼️ Advanced Image Captioning App
 
 A powerful and user-friendly tool that generates detailed captions for your images using state-of-the-art AI models. This app combines the strengths of Florence-2 and Llama 3.2 Vision models to provide rich, contextual descriptions of any image you upload.
@@ -6,7 +9,6 @@ A powerful and user-friendly tool that generates detailed captions for your imag
 
 - **Dual Model Support**: Choose between Florence-2 and Llama 3.2 Vision models
 - **Batch Processing**: Upload and process multiple images at once
-- **Smart Image Handling**: Automatic image resizing and format validation
 - **Organized Output**: Captions are saved with timestamps for easy reference
 - **User-Friendly Interface**: Clean, intuitive Streamlit-based UI
 - **Error Handling**: Comprehensive error messages and logging
@@ -16,6 +18,7 @@ A powerful and user-friendly tool that generates detailed captions for your imag
 ### Prerequisites
 
 Before you dive in, make sure you have Python 3.8+ installed on your machine. You'll also need some disk space for the AI models.
+You will also need to install the Ollama in your Local machine you can visit here [Ollama Install](path/to/ollama-install.md)
 
 ### Installation
 
@@ -199,7 +202,7 @@ Remember to include:
 
 ---
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Khalil
 
 ```
 Don't forget to star ⭐ this repo if you found it helpful!
