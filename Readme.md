@@ -180,25 +180,6 @@ Here are some features we're planning to add:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Thanks to the Anthropic team for the Florence-2 model
-- Thanks to the Llama team for the Llama 3.2 Vision model
-- Thanks to the Streamlit team for their amazing framework
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the troubleshooting section above
-2. Look through existing GitHub issues
-3. Create a new issue with detailed information about your problem
-
-Remember to include:
-- Your operating system
-- Python version
-- Error messages
-- Steps to reproduce the issue
 
 ---
 
